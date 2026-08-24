@@ -1,6 +1,6 @@
-# Beacon Electric — Electrician Demo Site · Handoff
+# VoltCrest Electric — Electrician Demo Site · Handoff
 
-Single-page demo for a **fictional** electrical contractor ("Beacon Electric").
+Single-page demo for a **fictional** electrical contractor ("VoltCrest Electric").
 Portfolio piece demonstrating a scroll-scrubbed blackout-to-glow video hero.
 Sister project to `fifth-ave-ai` (scrub architecture) and `hvac-site` (sections).
 

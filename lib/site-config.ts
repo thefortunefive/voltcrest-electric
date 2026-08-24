@@ -6,15 +6,15 @@
 
 export const SITE = {
   // DEMO — fictional business. All names, numbers, and towns are placeholders.
-  name: 'Beacon Electric',
-  legalName: 'Beacon Electric Co.', // DEMO
+  name: 'VoltCrest Electric',
+  legalName: 'VoltCrest Electric Co.', // DEMO
   tagline: 'We Bring the Power Back',
   description:
     'Licensed electricians serving the Greater Metro Area. Panel upgrades, EV chargers, rewiring, and 24/7 emergency service — power restored, done right.',
 
   phone: '(555) 010-0110', // DEMO — reserved fictional number
   phoneHref: 'tel:+15550100110',
-  email: 'service@beaconelectric.example', // DEMO
+  email: 'service@voltcrestelectric.example', // DEMO
 
   yearsInBusiness: 20, // DEMO
   licenseNumber: 'EC-217403', // DEMO
