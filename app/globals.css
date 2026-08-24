@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-night font-body text-white antialiased;
+}
+
+::selection {
+  @apply bg-amber/30 text-white;
+}
+
+/* Raised card on the dark theme */
+.card {
+  @apply rounded-2xl border border-white/10 bg-night-3 p-8 transition-colors duration-300 hover:border-amber/40;
+}
